@@ -1,0 +1,41 @@
+’¹ servam, enen. vr. 409
+
+la lune, dana laquelle on determinem lea autres pointr par interpolation. Le com·
+mencement, la fin, et le milieu de l'lclipse apparente, tronvea atres-peu pree
+par cette methodo, aeront corriges par le catcut dea parallaxea; et un petit
+nombre d'eeoala euffira, pour donner cea e'poquer arec utte grande precision.
+C'eet la marche generale a suivre dane lecalcnl qui eat l'objet de ce
+chapitre. Appelone, pour abreget, T le lieu pour lequel on ae propere de
+ealeuler l'eclipre apparente, sea latitude, P la parallare horizontale de la
+lune eous cette latitnde. Ι .
+ς. 262. Pour 'faciliter le calcnl, on ohoieira pour ler troia points qui
+xeerviront a tracer l'orbite apparente, dee dpoqnee peu dtoigndee du eom-
+nrencement, dela fin, et dn millen de l'dclipee apparente. Maia comme
+eea dpoquer eont inconnuee, on a ooutume d‘employer une consternation qni
+donne tout le detail de l'eclipse apparente, d'nne maniere forr simple, quoi·
+que moine ‘exacte que le caleril. Pour cet ellel il lant eonatrnire, rui·
+rant les rtgtes d'nne projeetlon quelconqne, la terre, le parallele ou le mon·
+rement geooentriqne du lieu T, et l’orbite relative de la lune, donnde par
+la premiere partie du calcul. Alore, ayant divise, le parallele et l‘orbite lu·
+naire en heurea el minutae, on pourra trouver ponr nn instant quelconque,
+
+· la position de la lune et du lieu T relativement lun point line, tel qne
+
+le centre du eoleil: oe qui donnera immddiatement la position apparente
+de la lune par rapport au eolell. On choisit ordinairement pour cet eder Ιι
+projection la plue simple, qn'on appelle ortogmplrr'qne, suivant laquelle tone
+lea points nont projetlee par den droitee, perpendiculaires a un plan fixe, et
+. par consequent lt οὐ ile parailralent a une distance infinie, et perpendicu-
+laire &ce plan. On eait que la projectlon d’un cercle quelconque est une
+ellipse, dont le petit axe est au grand, comme le cosinua de l'inclinaieon
+du plan du cerole eur oelni de la projection eet ‘a l’nnlte ᾗς. 79). le grand
+ue est la projection de celui des diametrea du cerole, qui est silue alane le
+plan, panant par le oenlre du cerr-tn et parallele au plan de la projection3
+le petit axe eet la projectlon du diametre qni eet perpendiculaire au pre'cd-
+dent. Le plan de la projection sera le grand eercle de la terre, dont le pole
+a le anteit eu lenit, dane t‘imtanr orl T a midi. ntor· l‘oeil eet tappet&
+
+52
+
+ 
+
